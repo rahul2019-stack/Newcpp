@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-  cout << "\n Hello from docker from";
+  cout << "\n Hello from docker";
   return 0; 
 }
